@@ -8,7 +8,7 @@ These data are retrieved from the dataset of the Global Mangrove Watch (GMW) ver
   <img src="contents/image.gif" width=100% />
 </p>
 
-The yealy mangrove dataset in Cambodia were used to calculate Mangrove Existence or Changing Period, Loss and Gain from 1996 to 2020 by using the Python script: `Mangrove in Cambodia.ipynb`.
+The yearly mangrove dataset in Cambodia were used to calculate Mangrove Existence or Changing Period, Loss and Gain from 1996 to 2020 by using the Python script: `Mangrove in Cambodia.ipynb`.
 
 <p float="left">
   <img src="contents/image-2.png" width=100% />
