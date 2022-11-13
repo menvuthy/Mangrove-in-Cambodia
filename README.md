@@ -10,6 +10,10 @@ These data are retrieved from the dataset of the Global Mangrove Watch (GMW) ver
 
 The yealy mangrove dataset in Cambodia were used to calculate Mangrove Period, Loss and Gain from 1996 to 2020 by using the Python script: `Mangrove in Cambodia.ipynb`.
 
+<p float="left">
+  <img src="contents/image-2.png" width=100% />
+</p>
+
 ### Global Mangrove Watch (1996 - 2020) Version 3.0 Dataset
  *Bunting, Pete;  Rosenqvist, Ake;  Hilarides, Lammert;  Lucas, Richard;  Thomas, Nathan;  Tadono , Takeo;  Worthington, Thomas; Spalding , Mark;  Murray, Nicholas;  Rebelo, Lisa-Maria*
 
