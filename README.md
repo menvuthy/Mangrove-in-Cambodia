@@ -1,11 +1,14 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6894273-blue.svg)](https://github.com/menvuthy/ASEA-Model/blob/main/LICENSE)
+
 # Mangrove in Cambodia from 1996 to 2020
 
 These data are retrieved from the dataset of the Global Mangrove Watch (GMW) version 3.0.
 
-
 <p float="left">
   <img src="contents/image.gif" width=100% />
 </p>
+
+The yealy mangrove dataset in Cambodia were used to calculate Mangrove Period, Loss and Gain from 1996 to 2020 by using the Python script: `Mangrove in Cambodia.ipynb`.
 
 ### Global Mangrove Watch (1996 - 2020) Version 3.0 Dataset
  *Bunting, Pete;  Rosenqvist, Ake;  Hilarides, Lammert;  Lucas, Richard;  Thomas, Nathan;  Tadono , Takeo;  Worthington, Thomas; Spalding , Mark;  Murray, Nicholas;  Rebelo, Lisa-Maria*
