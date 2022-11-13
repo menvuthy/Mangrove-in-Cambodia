@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6894273-blue.svg)](https://github.com/menvuthy/ASEA-Model/blob/main/LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6894273-blue.svg)](https://doi.org/10.3390/rs14153657)
 
 # Mangrove in Cambodia from 1996 to 2020
 
